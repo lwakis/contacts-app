@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "1234",
+      "password": "1234",
+      "contacts": [
+        {
+          "id": 1,
+          "name": "21412123123",
+          "number": 4124213412
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "login": "124124",
+      "password": "124124",
+      "contacts": [
+        {
+          "id": 2,
+          "name": "1241",
+          "number": 4124
+        },
+        {
+          "id": 1,
+          "name": "212421",
+          "number": 121
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "login": "qwrqwrwqr",
+      "password": "1242151",
+      "contacts": []
+    },
+    {
+      "id": 4,
+      "login": "asdasd",
+      "password": "1241241",
+      "contacts": []
+    },
+    {
+      "id": 5,
+      "login": "xcvxcvx",
+      "password": "cvxcv",
+      "contacts": []
+    }
+  ]
+}
